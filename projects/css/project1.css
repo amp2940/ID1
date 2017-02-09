@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    width:100%;
+    background-color:black;
+}
+
+img {
+    width:100%;
+}
+h1 {
+    color: white;
+}
+
+p {
+    width:60%;
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+h2 {
+    color:white;
+}
