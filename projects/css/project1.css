@@ -9,6 +9,7 @@ img {
 }
 h1 {
     color: white;
+    font-family: 'Gloria Hallelujah', cursive;
 }
 
 p {
@@ -16,6 +17,7 @@ p {
     color: white;
     padding-left: 20%;
     padding-right: 20%;
+    font-family: 'Gloria Hallelujah', cursive;
 }
 h2 {
     color:white;
