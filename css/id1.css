@@ -1,0 +1,33 @@
+/* DESKTOP LAYOUT */
+
+body
+{ background-image:url(" http://www.imageafter.com/dbase/textures/elements/b20elements019.jpg");
+    background-repeat: repeat-y;
+    margin: 0;
+    
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+img {
+    width:100%
+
+}
+
+/* MOBILE LAYOUT */
+
+@media only screen and
+    (max-width:500px) {
+        
+        body {
+            width: 80%;
+            padding: 2% 2%;
+            
+        }  
+        
+        img {
+            width: 80%;
+        }
+}
