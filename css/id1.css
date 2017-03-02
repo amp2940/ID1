@@ -1,10 +1,16 @@
 /* DESKTOP LAYOUT */
+header {
+    background-color:black
+        margin: 20px;
+    padding: 25px;
+    text-align: center;
+}
 
 body
-{ background-image:url(" http://www.imageafter.com/dbase/textures/elements/b20elements019.jpg");
+{ background-image:url("http://wallpapercave.com/wp/0Xf6Hpa.jpg");
     background-repeat: repeat-y;
     margin: 0;
-    
+
     font-family: 'Raleway', sans-serif;
     color: white;
     padding-left: 20%;
@@ -12,21 +18,30 @@ body
 }
 
 img {
-    width:100%
+    width:100%;
 
 }
+img#me {width: 200px;}
 
+section { 
+    padding: 25px;
+    margin: 20px;
+    background-color: black;
+    border-style: thin;
+    border-width: 10px;
+    border-color: black;
+}
 /* MOBILE LAYOUT */
 
 @media only screen and
     (max-width:500px) {
-        
+
         body {
             width: 80%;
             padding: 2% 2%;
-            
+
         }  
-        
+
         img {
             width: 80%;
         }
