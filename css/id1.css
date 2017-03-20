@@ -1,6 +1,6 @@
 /* DESKTOP LAYOUT */
 header {
-    background-color:black
+    background-color:black;
         margin: 20px;
     padding: 25px;
     text-align: center;
@@ -14,14 +14,23 @@ body
     font-family: 'Raleway', sans-serif;
     color: white;
     padding-left: 20%;
-    padding-right: 20%;
+    padding-right:20%;
 }
 
-img {
-    width:100%;
-
+img { 
+    
+width:5%;
+margin-left:47.5%;
+    
 }
-img#me {width: 200px;}
+img#me {width: 20%;
+margin-left:1%;}
+
+img#galaxy 
+{width:100%;
+    padding-left:20;
+padding-right:0;
+    margin-left:0;}
 
 section { 
     padding: 25px;
