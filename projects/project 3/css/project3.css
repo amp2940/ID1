@@ -1,11 +1,15 @@
 body {
     margin: 0;
-    width:100%;
+    width:50%;
     background-color:black;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 
 img {
     width:100%;
+    padding-left: 2%;
+    padding-right: 50%;
 }
 h1 {
     color: white;
