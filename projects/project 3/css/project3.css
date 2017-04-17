@@ -1,19 +1,26 @@
 body {
     margin: 0;
-    width:50%;
+    width:60%;
     background-color:black;
-    padding-left: 20%;
-    padding-right: 20%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 img {
     width:100%;
-    padding-left: 2%;
-    padding-right: 50%;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 h1 {
     color: white;
     font-family: 'Lato', sans-serif;
+    padding-left: 45%;
+}
+
+h4 {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    padding-left: 20%;
 }
 
 p {
@@ -25,4 +32,16 @@ p {
 }
 h2 {
     color:white;
+}
+
+h3 {
+    color:white;
+}
+
+#relative {
+    position: relative;
+    width: 100%;
+    height:400px;
+    background-color: navy;
+    background-size:cover;
 }

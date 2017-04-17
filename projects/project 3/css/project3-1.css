@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    width:50%;
+    background-color:black;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+img {
+    width:100%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+h1 {
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+h4 {
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+p {
+    width:60%;
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-family: 'Lato', sans-serif;
+}
+h2 {
+    color:white;
+}
